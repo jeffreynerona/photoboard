@@ -24,6 +24,11 @@ Make a project folder then open it:
 $ mkdir photoboard && cd photoboard
 ```
 
+Clone Repository:
+```sh
+$ git clone git@github.com:jeffreynerona/pos.git
+```
+
 Install dependencies:
 ```sh
 $ bundle install
@@ -38,3 +43,4 @@ Run the server:
 ```sh
 $ rails s
 ```
+
