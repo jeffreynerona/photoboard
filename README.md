@@ -1,10 +1,16 @@
 # Photoboard
 
-[![status|done](http://jeffreynerona.com/badges/status-done.svg)](http://jeffreynerona.com/projects) [![language|ruby](http://jeffreynerona.com/badges/language-ruby.svg)](http://jeffreynerona.com/projects/javascript) [![type|practice-project](http://jeffreynerona.com/badges/type-practiceproject.svg)](http://jeffreynerona.com/projects/) 
+[![status|done](http://jeffreynerona.com/badges/status-done.svg)](http://jeffreynerona.com/projects) [![type|practice-project](http://jeffreynerona.com/badges/type-practiceproject.svg)](http://jeffreynerona.com/projects/) [![language|ruby](http://jeffreynerona.com/badges/language-ruby.svg)](http://jeffreynerona.com/projects/javascript)  [![type|practice-project](http://jeffreynerona.com/badges/technology-rubyonrails.svg)](http://jeffreynerona.com/projects/)
 
 A simple instagram like application using Ruby On Rails. 
 
+![jeffreynerona|photobard](https://raw.githubusercontent.com/jeffreynerona/photoboard/master/screenshot/photoboard.png)
 
+# Features
+
+  - Login and Register
+  - Create, View, Update, and Delete Post
+  - Image Upload
 
 # Gems Used
 
@@ -32,4 +38,3 @@ Run the server:
 ```sh
 $ rails s
 ```
-
