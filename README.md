@@ -1,24 +1,35 @@
-# README
+# Photoboard
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![status|done](http://jeffreynerona.com/badges/status-done.svg)](http://jeffreynerona.com/projects) [![language|ruby](http://jeffreynerona.com/badges/language-ruby.svg)](http://jeffreynerona.com/projects/javascript) [![type|practice-project](http://jeffreynerona.com/badges/type-practiceproject.svg)](http://jeffreynerona.com/projects/) 
 
-Things you may want to cover:
+A simple instagram like application using Ruby On Rails. 
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+# Gems Used
 
-* Database creation
+  - boostrap-sass
+  - devise
+  - paperclip
 
-* Database initialization
+# Installation
+Make a project folder then open it:
+```sh
+$ mkdir photoboard && cd photoboard
+```
 
-* How to run the test suite
+Install dependencies:
+```sh
+$ bundle install
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+Migrate Database:
+```sh
+$ rake db:migrate
+```
 
-* Deployment instructions
+Run the server:
+```sh
+$ rails s
+```
 
-* ...
